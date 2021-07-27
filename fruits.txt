@@ -1,10 +1,7 @@
 apple
 grape
 watermelon
-<<<<<<< HEAD
 mango
 promogranate
-=======
-promogranate
 strawberry
->>>>>>> mybranch
+
